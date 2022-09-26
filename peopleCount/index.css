@@ -1,0 +1,44 @@
+
+body{
+    background: url("chai.jpg");
+    text-align: center;
+    background-size: cover;
+}
+
+.container{
+    background: white;
+    max-width: 80%;
+    padding:5px;
+    margin:auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+h1{
+
+    /* color: white; */
+    margin-top: 50px;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+button{
+    border:none;
+    padding : 5px 30px;
+    color: white;
+    font-weight: bold;
+    background: red;
+    width:200px;
+    border-radius: 5px; 
+}
+
+#increment-btn{
+    background: darkred ;
+}
+#save-btn{
+    background: darkgreen;
+}
+#prev-entry{
+    /* color:white; */
+}
